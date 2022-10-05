@@ -7,3 +7,9 @@ NOTE: I (the maintainer of this repo) am in no way affiliated with Multilogin. T
 This is a PKGBUILD script for Multilogin, which is a multiple-browser replacement tool. Use of the program requires a multilogin account, and an agreement to their Terms of Service.
 
 To install the package, run the following commands:
+
+```
+git clone https://github.com/Armory8854/mla-arch-pkgbuild.git
+cd mla-arch-pkgbuild
+makepkg -si
+```
